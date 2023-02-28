@@ -52,6 +52,8 @@ Where I think Canva shines is in its templates. Canva has a large community of d
 
 The following is a list of tools that might provide just one or a few functionalities in a very simple and free way. Sometimes not needed at all, othertimes they are the answer to your problems.
 
-* [removebg](https://www.remove.bg/) - remove background of images. It has never failed to remove my picture's backgrounds.
+* [draw.io](https://app.diagrams.net/) can build amazing diagrams, and is rightfully one of the most used tools for production of schemes in the scientific medium.
 
-* [DEEditor](https://deeditor.com/) - change icons colours. This is the only tool I managed to use to fix my colour pallets, and is very simple to use.
+* [removebg](https://www.remove.bg/) removes background of images. It has never failed to remove my picture's backgrounds.
+
+* [DEEditor](https://deeditor.com/) changes icons colours. This is the only tool I managed to use to fix my colour pallets, and is very simple to use.
