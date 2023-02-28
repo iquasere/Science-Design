@@ -1,11 +1,11 @@
-# 📊 Science-Poster-Tools 🧑‍💻
+# 📊 Science-Poster-Tools ‍💻
 
 ## Table of Contents 📑
 
-* [Introduction](https://github.com/iquasere/Science-Design#Introduction)
-* [PowerPoint](https://github.com/iquasere/Science-Design#PowerPoint)
-* [Canva](https://github.com/iquasere/Science-Design#Canva)
-* [Valuable single-purpose online tools](https://github.com/iquasere/Science-Design#Valuable-single-purpose-online-tools)
+* [Introduction](https://github.com/iquasere/Science-Design#Introduction-🚀)
+* [PowerPoint](https://github.com/iquasere/Science-Design#PowerPoint-⚡)
+* [Canva](https://github.com/iquasere/Science-Design#Canva-🎨)
+* [Valuable single-purpose online tools](https://github.com/iquasere/Science-Design#Valuable-single-purpose-online-tools-🌐)
 
 ## Introduction 🚀
 
@@ -13,7 +13,7 @@ Scientific posters are an essential aspect of presenting research findings to co
 
 This list compiles only tools that I have used, and is by no means a complete review. However, it should provide enough tools to produce great works of communication, including posters and graphical abstracts, at an interesting cost (i.e., 0 €, since we all scientists living on scholarships).
 
-## PowerPoint ⚡️
+## PowerPoint ⚡
 
 It's impossible to not know [PowerPoint](https://www.microsoft.com/en-us/microsoft-365/powerpoint), loved and hated by millions of people worldwide, as any proper Microsoft Office product. Because Office is not free, several alternatives exist today, but I've yet to find another one that is as simple and multifunctional to use as PowerPoint. With its extensive range of design templates, easy-to-use interface, and powerful editing tools, PowerPoint is still one of the greatest tools of all time for amateur graphic designers.
 
