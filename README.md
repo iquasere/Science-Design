@@ -2,10 +2,10 @@
 
 ## Table of Contents 📑
 
-* [Introduction](https://github.com/iquasere/Science-Design#Introduction-🚀)
-* [PowerPoint](https://github.com/iquasere/Science-Design#PowerPoint-⚡)
-* [Canva](https://github.com/iquasere/Science-Design#Canva-🎨)
-* [Valuable single-purpose online tools](https://github.com/iquasere/Science-Design#Valuable-single-purpose-online-tools-🌐)
+* [Introduction](https://github.com/iquasere/Science-Design#Introduction-)
+* [PowerPoint](https://github.com/iquasere/Science-Design#PowerPoint-)
+* [Canva](https://github.com/iquasere/Science-Design#Canva-)
+* [Valuable single-purpose online tools](https://github.com/iquasere/Science-Design#Valuable-single-purpose-online-tools-)
 
 ## Introduction 🚀
 
