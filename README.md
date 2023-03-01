@@ -48,12 +48,25 @@ Where I think Canva shines is in its templates. Canva has a large community of d
   
 </details>
 
+## draw.io
+
+[draw.io](https://app.diagrams.net/) can build amazing diagrams, and is rightfully one of the most used tools for production of schemes in the scientific medium.
+
+Most of my schemes were built there. Tip to download high resolution images: increase the zoom by a lot when doing ```File -> Export as -> PNG/JPEG```
+
+<details>
+  <summary>A simple scheme made in draw.io</summary>
+  
+  ![Canva poster](productions/drawio_scheme.jpg "Canva poster")
+  
+</details>
+
 ## Valuable single-purpose online tools 🌐
 
 The following is a list of tools that might provide just one or a few functionalities in a very simple and free way. Sometimes not needed at all, othertimes they are the answer to your problems.
 
-* [draw.io](https://app.diagrams.net/) can build amazing diagrams, and is rightfully one of the most used tools for production of schemes in the scientific medium.
-
 * [removebg](https://www.remove.bg/) removes background of images. It has never failed to remove my picture's backgrounds.
 
 * [DEEditor](https://deeditor.com/) changes icons colours. This is the only tool I managed to use to fix my colour pallets, and is very simple to use.
+
+* [IMAGEONLINE.CO](https://round-corner.imageonline.co/) has been useful to round my pictures.
